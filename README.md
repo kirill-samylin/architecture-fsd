@@ -1,0 +1,2 @@
+# architecture-fsd
+Структура проекта
